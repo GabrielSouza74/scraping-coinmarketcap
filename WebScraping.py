@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 
 # 🔑 Substitua aqui pela sua chave real da API do CoinMarketCap
-API_KEY = '20e8a7c3-dac4-4af6-8920-6a0e29f9a7a0'
+API_KEY = 'Coloque a sua Chave'
 
 # 📡 Endpoint da API
 url = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest'
