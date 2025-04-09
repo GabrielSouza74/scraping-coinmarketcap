@@ -1,0 +1,14 @@
+# Ignorar planilhas exportadas
+*.xlsx
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar ambientes virtuais
+.venv/
+env/
+venv/
+
+# Ignorar variáveis sensíveis
+.env
